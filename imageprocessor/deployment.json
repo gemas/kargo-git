@@ -1,0 +1,8 @@
+{
+    "kind": "terraform",
+    "order": 200,
+    "config": {
+        "workdir": "",
+        "sourcedir": "moaprplatform/imageprocessor"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "build_url": "",
+    "commit_hash": "9f28ff90d1eccebcad0af543519d3521c266a82f",
+    "commit_message": "Merge branch 'feature/SRE-2547---Add-dedicated-dev-substage-for-DT-Planning' into 'main'\n\nadd artifact reader role\n\nSee merge request nexuzhealth/nxh/moaprimageprocessor!10",
+    "commit_ref": "main",
+    "git_url": "",
+    "last_buildnr_included": 1,
+    "last_commit": "",
+    "merged_branch": "",
+    "release_version": "2025.18.0",
+    "skip_auto_deploy": "true",
+    "source_branch": "release/moapr/2025.18",
+    "version": "202504021141-10084-9f28ff90"
+}
